@@ -14,7 +14,7 @@ public class HolaMundo
 	public static void main(String[] args) // Metodo principal main()
 	{
 		// Desplegar "Hola Mundo"
-		System.out.println("Hola mundo");
+		System.out.println("Hola mundoa");
 		
 		// Probar el funcionamiento da la API System
 		String nombre;
